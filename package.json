@@ -1,0 +1,22 @@
+{
+  "name": "artifi-dist",
+  "version": "1.0.0",
+  "description": "Artifi angular component dist repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "artifi:test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilnkashyap/dist.git"
+  },
+  "keywords": [
+    "Artifi"
+  ],
+  "author": "Sunil Kashyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilnkashyap/dist/issues"
+  },
+  "homepage": "https://github.com/sunilnkashyap/dist#readme"
+}
